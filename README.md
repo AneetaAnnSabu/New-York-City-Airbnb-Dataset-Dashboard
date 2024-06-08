@@ -14,3 +14,11 @@ Correcting Data Types: Ensured that each column had the appropriate data type (e
 During this phase, we transformed the data to make it more suitable for analysis and visualization.
 ### 4. Data Analysis
 With the cleaned and transformed data, we performed various analyses to uncover insights
+
+# Key Insights:
+### Room Availability: There are 37,350 room availabilities in New York City. Manhattan has the most number of rooms available, followed by Brooklyn.
+### Room Types: The majority of available rooms are entire homes, followed by private rooms. This indicates a preference for privacy among guests.
+### Manhattan Dominance: Manhattan not only has the most available rooms but also the highest number of entire homes, reinforcing the preference for entire home accommodations in this area.
+### Brooklyn's Demand for Private Rooms: Brooklyn has a higher demand for private rooms compared to other boroughs.
+### Pricing Insights: Manhattan has the highest average prices for Airbnb listings, followed by Brooklyn. Interestingly, shared rooms in Queens,Bronx,Staten Island are priced higher than those in Brooklyn, despite Brooklyn having more shared rooms. This suggests a possible higher demand or different market dynamics these areas for shared accommodations.
+Reviews:Entire accomodations and Private rooms have highest number of reviews. 
