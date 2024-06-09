@@ -20,5 +20,6 @@ With the cleaned and transformed data, we performed various analyses to uncover 
 ### Room Types: The majority of available rooms are entire homes, followed by private rooms. This indicates a preference for privacy among guests.
 ### Manhattan Dominance: Manhattan not only has the most available rooms but also the highest number of entire homes, reinforcing the preference for entire home accommodations in this area.
 ### Brooklyn's Demand for Private Rooms: Brooklyn has a higher demand for private rooms compared to other boroughs.
-### Pricing Insights: Manhattan has the highest average prices for Airbnb listings, followed by Brooklyn. Interestingly, shared rooms in Queens,Bronx,Staten Island are priced higher than those in Brooklyn, despite Brooklyn having more shared rooms. This suggests a possible higher demand or different market dynamics these areas for shared accommodations.
-Reviews:Entire accomodations and Private rooms have highest number of reviews. 
+### Pricing Insights:The average  price of an Airbnb in the NYC area is $151.32. Manhattan has the highest average prices for Airbnb listings, followed by Brooklyn. Interestingly, shared rooms in Queens,Bronx,Staten Island are priced higher than those in Brooklyn, despite Brooklyn having more shared rooms. This suggests a possible higher demand or different market dynamics these areas for shared accommodations.
+### Reviews:Entire accomodations and Private rooms have highest number of reviews.Among neighbourhood groups Manhattan received highest number of reviews followed by Brooklyn,Queens,Bronx.
+
